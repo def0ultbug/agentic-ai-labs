@@ -46,7 +46,7 @@ agentic-ai-labs/
 Each project folder contains:
 - `README.md` - Concept overview and implementation details
 - Source code with detailed comments
-- `requirements.txt` - Project dependencies
+- `poetry` - Project dependencies
 - Example outputs and test cases
 
 ### Prerequisites
@@ -63,8 +63,6 @@ cd agentic-ai-labs
 # Navigate to a specific project
 cd 01_agent_basics
 
-# Install dependencies
-pip install -r requirements.txt
 
 # Set up environment variables
 export OPENAI_API_KEY='your-api-key-here'
