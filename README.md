@@ -57,7 +57,7 @@ Each project folder contains:
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/agentic-ai-labs.git
+git clone https://github.com/def0ultbug/agentic-ai-labs.git
 cd agentic-ai-labs
 
 # Navigate to a specific project
